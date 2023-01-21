@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JhonnR9
 - 👀 I’m interested in android application
-- 🌱 I’m currently learning navagation draw
+- 🌱 I’m currently learning firebase
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
