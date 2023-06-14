@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @JhonnR9
-- 👀 I’m interested in android application
-- 🌱 I’m currently learning firebase
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in web aplication
+- 🌱 I’m currently learning JavaScript
+- 📚 currently I’m studying at Kenzie Academy
 
 <!---
 JhonnR9/JhonnR9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
