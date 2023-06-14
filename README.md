@@ -1,3 +1,6 @@
+
+<img src="https://i.imgur.com/GIKOxEZ.png">
+
 - 👋 Hi, I’m @JhonnR9
 - 👀 I’m interested in web aplication
 - 🌱 I’m currently learning JavaScript
