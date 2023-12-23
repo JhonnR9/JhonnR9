@@ -2,8 +2,8 @@
 <img src="https://i.imgur.com/GIKOxEZ.png">
 
 - 👋 Hi, I’m @JhonnR9
-- 👀 I’m interested in web aplication
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in web aplication backend
+- 🌱 I’m currently learning Java SpringBoot
 - 📚 currently I’m studying at Kenzie Academy
 
 ## 🌐 Socials:
